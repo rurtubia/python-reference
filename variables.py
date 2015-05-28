@@ -12,29 +12,25 @@ username = "\"rurtubia\""
 
 #   to concatenate strings in python, a + sing is used
 print('My name is '+ name + ' and my username name is ' + username)
+# another way to concatenate strings in pythonn is this:
+print("%s %s" %('my github username is ', username))
 
+#to print more than one new line at the same time:
+print("\n" * 3)
+
+#to print two or more print() commands in a single line:
+print("The first line has joined ", end="")
+print("the second line.")
+
+
+#   multi line quotes in python
+
+multi_line_quote =  '''1) first line
+2) second line
+3) third line
+'''
+
+print(multi_line_quote)
 # There are five main data types in python: numbers, strings, lists, tuples and dictionaries
-# number variables
 
-cinco = 5
-dos = 2
-
-# There are seven arithmetic operators
-
-#   +  addition
-print(cinco+dos)
-#   -  subtraction
-print(cinco-dos)
-#   *  multiplication
-print(cinco*dos)
-#   /  division
-print(cinco/dos)
-#   %  modulus (returns the division remainder)
-print(cinco%dos)
-#   ** exponential calculation
-print(cinco**dos)
-#   // floor division (performs a division and discards the remainder - rounds down the value)
-print(cinco//dos)
-
-#   Order of operations
 
