@@ -1,25 +1,36 @@
-# number variables
+"""
+Multi line comment:
+variables in python must start with a letter,
+then it can have numbers or undersocres
+"""
 
-cinco = 5
-dos = 2
+#   string variables can use either a single or double quotes
+name = 'Randy'
 
-# There are seven arithmetic operators
+#   to include quotes in a string, it is necessary to use a backslash
+username = "\"rurtubia\""
 
-#   +  addition
-print(cinco+dos)
-#   -  subtraction
-print(cinco-dos)
-#   *  multiplication
-print(cinco*dos)
-#   /  division
-print(cinco/dos)
-#   %  modulus (returns the division remainder)
-print(cinco%dos)
-#   ** exponential calculation
-print(cinco**dos)
-#   // floor division (performs a division and discards the remainder - rounds down the value)
-print(cinco//dos)
+#   to concatenate strings in python, a + sing is used
+print('My name is '+ name + ' and my username name is ' + username)
+# another way to concatenate strings in pythonn is this:
+print("%s %s" %('my github username is ', username))
 
-#   Order of operations
-print("4 + 5 / 2 * 6 - 7 = ", 4 + 5 / 2* 6 - 7)
-print("(4 + 5) / 2 * (6 - 7) = ", (4 + 5) / 2* (6 - 7))
+#to print more than one new line at the same time:
+print("\n" * 3)
+
+#to print two or more print() commands in a single line:
+print("The first line has joined ", end="")
+print("the second line.")
+
+
+#   multi line quotes in python
+
+multi_line_quote =  '''1) first line
+2) second line
+3) third line
+'''
+
+print(multi_line_quote)
+# There are five main data types in python: numbers, strings, lists, tuples and dictionaries
+
+
