@@ -4,10 +4,14 @@ variables in python must start with a letter,
 then it can have numbers or undersocres
 """
 
-#   string variable
-name = 'rurtubia'
+#   string variables can use either a single or double quotes
+name = 'Randy'
 
-print('my name is ' + name)
+#   to include quotes in a string, it is necessary to use a backslash
+username = "\"rurtubia\""
+
+#   to concatenate strings in python, a + sing is used
+print('My name is '+ name + ' and my username name is ' + username)
 
 # There are five main data types in python: numbers, strings, lists, tuples and dictionaries
 # number variables
