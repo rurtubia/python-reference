@@ -1,4 +1,5 @@
 # python reference
+![python](https://github.com/rurtubia/pythonVariables/blob/master/img/python-logo.png)
 
 Basic work with variables in python
 
@@ -8,4 +9,7 @@ Basic work with variables in python
 * [Tuples](tuples.py)
 * [Dictionaries](dictionaries.py)
 
-![python](https://github.com/rurtubia/pythonVariables/blob/master/img/python-logo.png)
+Conditions and loops in python
+
+* [Conditions](conditionals.py)
+
