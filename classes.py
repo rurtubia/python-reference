@@ -40,7 +40,6 @@ class Animal:
     def set_weight(self, weight):
         self.__weight = weight
 
-    @property
     def get_sound(self):
         return self.__sound
 
@@ -101,7 +100,7 @@ class Dog(Animal):
         if how_many is None:
             print(self.get_sound)
         else:
-            print(self.get_sound * how_many)
+            print(self.get_sound() * how_many)
 
 # Creating an object based on the subclass we just created
 
