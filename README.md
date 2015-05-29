@@ -1,4 +1,6 @@
 # python reference
+
+Simple python reference for beginners
 ![python](https://github.com/rurtubia/pythonVariables/blob/master/img/python-logo.png)
 
 Basic work with variables in python
