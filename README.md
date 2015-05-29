@@ -1,4 +1,4 @@
-# pythonVariables
+# python reference
 
 Basic work with variables in python
 
