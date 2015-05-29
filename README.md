@@ -17,5 +17,6 @@ Conditions and loops in python
 * [Loops](loops.py)
 
 Functions in python
+
 * [Functions](functions.py)
 * [Substring functions](functions_substring.py)
