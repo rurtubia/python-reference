@@ -30,7 +30,6 @@ print(text_in_file)
 
 
 # Deleting a file
-
 # it throws an error if the file hasn't been closed beforehand
 test_file.close()
 os.remove('test.txt')
