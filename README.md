@@ -14,4 +14,5 @@ Basic work with variables in python
 Conditions and loops in python
 
 * [Conditions](conditionals.py)
+* [Loops](loops.py)
 
