@@ -3,7 +3,7 @@
 Simple python reference for beginners
 ![python](https://github.com/rurtubia/pythonVariables/blob/master/img/python-logo.png)
 
-Basic work with variables in python
+1) Basic work with variables in python
 
 * [Numbers](numbers.py)
 * [Strings](strings.py)
@@ -11,16 +11,16 @@ Basic work with variables in python
 * [Tuples](tuples.py)
 * [Dictionaries](dictionaries.py)
 
-Conditions and loops in python
+2) Conditions and loops in python
 
 * [Conditions](conditionals.py)
 * [Loops](loops.py)
 
-Functions in python
+3) Functions in python
 
 * [Functions](functions.py)
 * [Substring functions](functions_substring.py)
 
-Object Orientation in python
+4) Object Orientation in python
 
 * [Object Orientation](classes.py)
